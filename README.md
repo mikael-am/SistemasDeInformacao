@@ -1,6 +1,5 @@
-# SistemasDeInformacao
-Curso de Sistemas de Informação - URCAMP
+# Sistemas de Informação
 
-1 - O conteúdo disponível neste repositório tem como objetivo ajudar os estudantes que se aventuram no mundo da programação.
+Curso de Sistemas de Informação - URCAMP (Universidade da Região da Campanha)
 
-2 - Todo o conteúdo disponível neste repositório é de autoria de Mikael Adolfo Maria, utilizar destes fontes (total ou parcialmente) sem citar seu nome é terminantemente proibido;
+Mikael Adolfo Maria
